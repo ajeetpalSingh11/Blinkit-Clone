@@ -1,0 +1,376 @@
+[{
+    "title": "Chemist store",
+    "products": [
+        {
+            "name": "Plush Preg-oh! Pregnancy Test Kit (Midstream)",
+            "quantity": 0,
+            "price": 308,
+            "id": 480693,
+            "unit": "3 pieces",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/480693a.jpg?ts=1650977521"
+        },
+        {
+            "name": "Durex Invisible Super Ultra Thin Condom",
+            "quantity": 0,
+            "price": 335,
+            "id": 434549,
+            "unit": "10 units",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/434549a.jpg?ts=1633497471"
+        },
+        {
+            "name": "Durex Play Intimate Sweet Strawberry Lubricant",
+            "quantity": 0,
+            "price": 380,
+            "id": 36700,
+            "unit": "50 ml",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/36700a.jpg?ts=1633495615"
+        },
+        {
+            "name": "Moov Instant Pain Relief Spray",
+            "quantity": 0,
+            "price": 256,
+            "id": 18862,
+            "unit": "80 g",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/18862a.jpg?ts=1643966797"
+        },
+        {
+            "name": "Dr. Morepen Pulse Oximeter",
+            "quantity": 0,
+            "price": 1205,
+            "id": 479302,
+            "unit": "1 unit",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/479302a.jpg"
+        },
+        {
+            "name": "Krishna PPE Kit",
+            "quantity": 0,
+            "price": 498,
+            "id": 479305,
+            "unit": "1 unit",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/479305a.jpg?ts=1641301819"
+        },
+        {
+            "name": "Savlon Small Mask (White)",
+            "quantity": 0,
+            "price": 79,
+            "id": 436985,
+            "unit": "1 piece",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/436985a.jpg"
+        },
+        {
+            "name": "Dettol Clinical Strength Hand Sanitizer",
+            "quantity": 0,
+            "price": 230,
+            "id": 467014,
+            "unit": "500 ml",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/467014a.jpg"
+        },
+        {
+            "name": "Dabur Pudin Hara Active Drops",
+            "quantity": 0,
+            "price": 53,
+            "id": 990,
+            "unit": "30 ml",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/990a.jpg"
+        },
+        {
+            "name": "Hansaplast Washproof Adhesive Bandage (8 pieces)",
+            "quantity": 0,
+            "price": 22,
+            "id": 476976,
+            "unit": "8 units",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/476976a.jpg"
+        },
+        {
+            "name": "Friends Classic Dry Adult Diaper (Large)",
+            "quantity": 0,
+            "price": 484,
+            "id": 477209,
+            "unit": "10 units",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/477209a.jpg"
+        },
+        {
+            "name": "Nestle Ceregrow Growing Up Baby Cereal",
+            "quantity": 0,
+            "price": 273,
+            "id": 309634,
+            "unit": "300 g",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/309634a.jpg?ts=1646806090"
+        },
+        {
+            "name": "Nestle Lactogrow Nutritious Health Drink",
+            "quantity": 0,
+            "price": 324,
+            "id": 429438,
+            "unit": "400 g",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/429438a.jpg?ts=1645512938"
+        },
+        {
+            "name": "3M 9513 Respirator KN95 Face Mask",
+            "quantity": 0,
+            "price": 108,
+            "id": 477244,
+            "unit": "1 unit",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/477244a.jpg"
+        },
+        {
+            "name": "Vicks VapoRub Chest rubs & balms",
+            "quantity": 0,
+            "price": 87,
+            "id": 1017,
+            "unit": "25 ml",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/1017a.jpg?ts=1635923134"
+        }
+    ]
+},
+{
+    "title": "Breakfast & dairy",
+    "products": [
+        {
+            "name": "Go Plain Cheese Slices",
+            "quantity": 0,
+            "price": 291,
+            "id": 3493,
+            "unit": "476 g",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/3493a.jpg?ts=1589279406"
+        },
+        {
+            "name": "Eggoz Farm Fresh White Eggs",
+            "quantity": 0,
+            "price": 241,
+            "id": 477483,
+            "unit": "1 pack (30 pieces)",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/477483a.jpg?ts=1639977233"
+        },
+        {
+            "name": "Amul Butter (500 g)",
+            "quantity": 0,
+            "price": 252,
+            "id": 160,
+            "unit": "500 g",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/160a.jpg?ts=1654778815"
+        },
+        {
+            "name": "Nestle Gold Crunchy, Corn & Oat Flakes",
+            "quantity": 0,
+            "price": 187,
+            "id": 476144,
+            "unit": "475 g",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/476144a.jpg?ts=1644583563"
+        },
+        {
+            "name": "Kellogg's Original Cereals Corn Flakes",
+            "quantity": 0,
+            "price": 412,
+            "id": 406721,
+            "unit": "1.2 kg",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/406721a.jpg?ts=1591093026"
+        },
+        {
+            "name": "Kellogg's Muesli with 21% Fruit, Nut & Seeds",
+            "quantity": 0,
+            "price": 389,
+            "id": 373665,
+            "unit": "750 g",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/373665a.jpg?ts=1620650940"
+        },
+        {
+            "name": "Total Classic Farm Fresh Chicken Cage Free Eggs",
+            "quantity": 0,
+            "price": 72,
+            "id": 322902,
+            "unit": "6 pieces",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/322902a.jpg"
+        },
+        {
+            "name": "Rishta Fresh & Tasty Idli & Dosa Batter",
+            "quantity": 0,
+            "price": 88,
+            "id": 369084,
+            "unit": "1 kg",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/369084a.jpg?ts=1626959780"
+        },
+        {
+            "name": "Kellogg's Moons & Stars Cereals Chocos",
+            "quantity": 0,
+            "price": 369,
+            "id": 406724,
+            "unit": "1.2 kg",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/406724a.jpg?ts=1624525137"
+        },
+        {
+            "name": "Hershey's Chocolate Milk Shake",
+            "quantity": 0,
+            "price": 35,
+            "id": 320685,
+            "unit": "180 ml",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/320685a.jpg"
+        },
+        {
+            "name": "Epigamia Wild Raspberry Greek Yogurt",
+            "quantity": 0,
+            "price": 55,
+            "id": 132233,
+            "unit": "90 g",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/132233a.jpg?ts=1630233252"
+        },
+        {
+            "name": "Saffola Masala Veggie Twist Oats",
+            "quantity": 0,
+            "price": 178,
+            "id": 390998,
+            "unit": "500 g",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/390998a.jpg?ts=1623234687"
+        },
+        {
+            "name": "Amul Taaza Toned Fresh Milk",
+            "quantity": 0,
+            "price": 25,
+            "id": 19512,
+            "unit": "500 ml",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/19512a.jpg?ts=1647923044"
+        },
+        {
+            "name": "Amul Taaza Homogenised Toned Milk",
+            "quantity": 0,
+            "price": 68,
+            "id": 176,
+            "unit": "1 l",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/176a.jpg?ts=1624537541"
+        },
+        {
+            "name": "Amul Yummy Plain Cheese Spread",
+            "quantity": 0,
+            "price": 94,
+            "id": 174,
+            "unit": "200 g",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/174a.jpg?ts=1644839308"
+        }
+    ]
+},
+{
+    "title": "Biscuits, snacks & chocolates",
+    "products": [
+        {
+            "name": "Sunfeast Dark Fantasy Biscuit - Choco Fills Cookies 300 g",
+            "quantity": 0,
+            "price": 121,
+            "id": 313249,
+            "unit": "300 g",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/313249a.jpg?ts=1648546100"
+        },
+        {
+            "name": "4700BC Nutty Tuxedo Chocolate Popcorn",
+            "quantity": 0,
+            "price": 180,
+            "id": 424025,
+            "unit": "150 g",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/424025a.jpg?ts=1621068567"
+        },
+        {
+            "name": "Cadbury Oreo Vanilla Family Pack Sandwich Cream Biscuits 300 g",
+            "quantity": 0,
+            "price": 68,
+            "id": 382396,
+            "unit": "300 g",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/382396a.jpg?ts=1654492739"
+        },
+        {
+            "name": "Cadbury Dairy Milk Home Treats Chocolate",
+            "quantity": 0,
+            "price": 122,
+            "id": 11020,
+            "unit": "126 g",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/11020a.jpg"
+        },
+        {
+            "name": "Prabhuji Bhujia",
+            "quantity": 0,
+            "price": 240,
+            "id": 52639,
+            "unit": "900 g",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/52639a.jpg"
+        },
+        {
+            "name": "Lotte Choco Pie - 12 units",
+            "quantity": 0,
+            "price": 124,
+            "id": 18471,
+            "unit": "336 g",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/18471a.jpg?ts=1592078199"
+        },
+        {
+            "name": "Lay's American Style Cream & Onion Flavour Potato Chips - Pack of 2",
+            "quantity": 0,
+            "price": 86,
+            "id": 439142,
+            "unit": "2 x 104 g",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/439142a.jpg?ts=1653659064"
+        },
+        {
+            "name": "Britannia NutriChoice Digestive High Fibre Biscuit - Super Saver pack",
+            "quantity": 0,
+            "price": 176,
+            "id": 392931,
+            "unit": "1 kg",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/392931a.jpg?ts=1644494108"
+        },
+        {
+            "name": "Bikano Shahi Mixture Namkeen",
+            "quantity": 0,
+            "price": 242,
+            "id": 34338,
+            "unit": "1 kg",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/34338a.jpg"
+        },
+        {
+            "name": "Britannia Toastea Premium Bake Rusk",
+            "quantity": 0,
+            "price": 44,
+            "id": 15366,
+            "unit": "300 g",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/15366a.jpg?ts=1640005056"
+        },
+        {
+            "name": "Nestle Munch Chocolate Coated Crunchy Wafers - Share Pack",
+            "quantity": 0,
+            "price": 85,
+            "id": 127096,
+            "unit": "187.2 g",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/127096a.jpg"
+        },
+        {
+            "name": "Nestle KITKAT Wafer Bar Share Bag (7 packs inside)",
+            "quantity": 0,
+            "price": 85,
+            "id": 383615,
+            "unit": "119 g",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/383615a.jpg?ts=1630648502"
+        },
+        {
+            "name": "Bingo Mad Angles Masala Madness Crisps - Pack of 2",
+            "quantity": 0,
+            "price": 36,
+            "id": 401228,
+            "unit": "2 x 66 g",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/401228a.jpg?ts=1653665108"
+        },
+        {
+            "name": "Kurkure Puffcorn Yummy Cheese Puffs - Pack of 3",
+            "quantity": 0,
+            "price": 51,
+            "id": 375328,
+            "unit": "3 x 55 g",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/375328a.jpg?ts=1653994680"
+        },
+        {
+            "name": "Prabhuji Elaichi Soan Papdi",
+            "quantity": 0,
+            "price": 161,
+            "id": 375552,
+            "unit": "450 g",
+            "image": "https://cdn.grofers.com/app/images/products/sliding_image/375552a.jpg?ts=1617795519"
+        }
+    ]
+}
+]
